@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CryptoToday/static/css/main.263ef4d9.css",
+    "main.js": "/CryptoToday/static/js/main.a6c317f1.js",
+    "static/media/CryptoToday-logos.png": "/CryptoToday/static/media/CryptoToday-logos.5ca7eec85fc30d3dd145.png",
+    "index.html": "/CryptoToday/index.html",
+    "main.263ef4d9.css.map": "/CryptoToday/static/css/main.263ef4d9.css.map",
+    "main.a6c317f1.js.map": "/CryptoToday/static/js/main.a6c317f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263ef4d9.css",
+    "static/js/main.a6c317f1.js"
+  ]
+}
