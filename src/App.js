@@ -24,6 +24,9 @@ const App = () => {
               <Route exact path="/">
                 <Homepage />
               </Route>
+              <Route exact path="/CryptoToday">
+                <Homepage />
+              </Route>
               <Route exact path="/cryptocurrencies">
                 <Cryptocurrencies />
               </Route>

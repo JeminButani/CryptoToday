@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 import { useGetCryptosQuery } from "../services/cryptoApi";
 import { Cryptocurrencies, News } from "../components";
 import Loader from "./Loader";
+import { useEffect } from "react";
 
 const { Title } = Typography;
 
